@@ -30,7 +30,7 @@ SRC +=	ft_strnstr.c ft_strrchr.c ft_strrev.c ft_strsplit.c
 SRC +=	ft_strstr.c ft_strsub.c ft_strtrim.c ft_tolower.c
 SRC +=	ft_toupper.c ft_lstnew.c ft_lstmap.c ft_lstiter.c
 SRC +=	ft_lstdelone.c ft_lstdel.c ft_lstadd.c ft_iswhite.c
-SRC +=	ft_recursive_power.c
+SRC +=	ft_recursive_power.c ft_sqrt.c ft_range.c
 
 OBJ = $(SRC:.c=.o)
 
